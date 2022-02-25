@@ -1,0 +1,28 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=DC ReturnKeyEnable v3.5.chm
+Contents file=DataMangerHelp.hhc
+Default topic=Dynamic Components ReturnKey Enable.htm
+Display compile progress=No
+Full-text search=Yes
+Index file=DataMangerHelp.hhk
+Language=0x409 English (United States)
+Title=DC ReturnKeyEnable Help
+
+
+[FILES]
+contact us.htm
+features.htm
+how to order.htm
+license.htm
+system requirements.htm
+Overview.htm
+Deploying ReturnKey Enable COM Applications.htm
+EnableReturnKey.htm
+Dynamic Components ReturnKey Enable.htm
+Installing ReturnKeyEnable COM.htm
+Including DC ReturnKey Enable.htm
+setRegistrationKey.htm
+
+[INFOTYPES]
+
